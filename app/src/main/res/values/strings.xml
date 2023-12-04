@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="butAdd">Добавить</string>
+    <string name="butDel">Удалить</string>
+    <string name="hint">Введите текст</string>
+    <string name="singIn">Войти</string>
+    <string name="singUp">Регистрация</string>
+    <string name="name">Имя</string>
+    <string name="pass">Пароль</string>
+    <string name="singUpEn">SingUp</string>
+    <string name="singInEn">singIn</string>
+    <string name="hintEn">Enter text</string>
+    <string name="butDelEn">Delete</string>
+    <string name="butAddEn">Add</string>
+    <string name="nameEn">Name</string>
+    <string name="passEn">Password</string>
+    <string name="list">Список</string>
+    <string name="listEn">List</string>
+    <string name="settingUPD">Изменение пароля</string>
+    <string name="butEdit">Изменить</string>
+    <string name="settingDEL">Удаление пользователя</string>
+    <string name="message">*все данные будут удалены, включая все записи списка</string>
+
+</resources>
